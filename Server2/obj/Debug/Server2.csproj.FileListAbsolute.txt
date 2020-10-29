@@ -1,0 +1,9 @@
+C:\Users\dello\source\repos\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+C:\Users\dello\source\repos\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\dello\source\repos\Server2\bin\Debug\Server2.exe
+C:\Users\dello\source\repos\Server2\bin\Debug\Server2.pdb
+C:\Users\dello\source\repos\Server2\bin\Debug\ClassLibrary.dll
+C:\Users\dello\source\repos\Server2\bin\Debug\ClassLibrary.pdb
+C:\Users\dello\source\repos\Server2\obj\Debug\Server2.csproj.CopyComplete
+C:\Users\dello\source\repos\Server2\obj\Debug\Server2.exe
+C:\Users\dello\source\repos\Server2\obj\Debug\Server2.pdb
